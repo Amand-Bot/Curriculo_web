@@ -13,6 +13,6 @@ Olá, Bem vindo ao meu projeto Web.
 
 ## Feito por:
 
-### Joana Santos
+### Amanda Souza
 
 ### Linkedin: (https://www.linkedin.com/in/amanda-souza-831331215/)
